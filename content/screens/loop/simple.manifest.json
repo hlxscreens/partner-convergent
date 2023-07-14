@@ -1,0 +1,70 @@
+{
+  "version": "3.0",
+  "contentDelivery": {
+    "providers": [
+      {
+        "name": "franklin",
+        "endpoint": "/"
+      }
+    ],
+    "defaultProvider": "franklin"
+  },
+  "timestamp": 1689346362714,
+  "entries": [
+    {
+      "path": "/content/screens/loop/simple.html"
+    },
+    {
+      "path": "/scripts/lib-franklin.js",
+      "timestamp": 1689337787000
+    },
+    {
+      "path": "/scripts/scripts.js",
+      "timestamp": 1689337787000
+    },
+    {
+      "path": "/styles/styles.css",
+      "timestamp": 1689337787000
+    },
+    {
+      "path": "/content/screens/loop/media_12117fd1310b611e39ebd7d7729a21b56fb9c1d35.png?width=750&format=png&optimize=medium",
+      "hash": "12117fd1310b611e39ebd7d7729a21b56fb9c1d35"
+    },
+    {
+      "path": "/content/screens/loop/media_1dce31c787f523d4d31c0a780172f7abb6c2e7712.jpeg?width=750&format=jpeg&optimize=medium",
+      "hash": "1dce31c787f523d4d31c0a780172f7abb6c2e7712"
+    },
+    {
+      "path": "/content/screens/loop/media_1592f26968872fd73f90e84f0731193fdd118bfdd.png?width=750&format=png&optimize=medium",
+      "hash": "1592f26968872fd73f90e84f0731193fdd118bfdd"
+    },
+    {
+      "path": "/content/screens/loop/media_1c3ad916805ac0800331cbab4867ce26a80d0d1b2.png?width=750&format=png&optimize=medium",
+      "hash": "1c3ad916805ac0800331cbab4867ce26a80d0d1b2"
+    },
+    {
+      "path": "/scripts/delayed.js",
+      "timestamp": 1689337787000
+    },
+    {
+      "path": "/blocks/columns/columns.css",
+      "timestamp": 1689337786000
+    },
+    {
+      "path": "/blocks/columns/columns.js",
+      "timestamp": 1689337786000
+    },
+    {
+      "path": "/blocks/menutable/menutable.js",
+      "timestamp": 1689337787000
+    },
+    {
+      "path": "/blocks/menutable/menutable.css",
+      "timestamp": 1689337787000
+    },
+    {
+      "path": "/blocks/menutable/qrcode.min.js",
+      "timestamp": 1689337787000
+    }
+  ]
+}

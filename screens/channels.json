@@ -1,5 +1,23 @@
 {
-  "channels": [],
+  "channels": [
+    {
+      "manifestPath": "/content/screens/loop/simple.manifest.json",
+      "lastModified": "2023-07-14T12:29:47.000Z",
+      "hierarchy": [
+        {
+          "title": "screens",
+          "path": "/content/screens"
+        },
+        {
+          "title": "loop",
+          "path": "/content/screens/loop"
+        }
+      ],
+      "externalId": "/content/screens/loop/simple",
+      "title": "Convergent Channel",
+      "liveUrl": "https://main--partner-convergent--hlxscreens.hlx.live/content/screens/loop/simple.html"
+    }
+  ],
   "metadata": {
     "providerType": "franklin"
   }
